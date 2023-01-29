@@ -1,4 +1,3 @@
-
 using System;
 class Entry {
     public string prompt;
